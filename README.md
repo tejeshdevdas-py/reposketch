@@ -2,7 +2,7 @@
 
 **See the bigger picture of a codebase.**
 
-[![Checks](https://github.com/TejeshDevdas/reposketch/actions/workflows/ci.yml/badge.svg)](https://github.com/TejeshDevdas/reposketch/actions/workflows/ci.yml)
+[![Checks](https://github.com/tejeshdevdas-py/reposketch/actions/workflows/ci.yml/badge.svg)](https://github.com/tejeshdevdas-py/reposketch/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Paste a public GitHub repository URL and get an editable map of its JavaScript and TypeScript imports. Explore connections, read the source behind an arrow, follow a guided route through the code, and export your annotated diagram.
@@ -18,7 +18,7 @@ Built with React, TypeScript, Vite, and [Excalidraw](https://github.com/excalidr
 Requires **Node.js 22.12 or newer** and npm.
 
 ```sh
-git clone https://github.com/TejeshDevdas/reposketch.git
+git clone https://github.com/tejeshdevdas-py/reposketch.git
 cd reposketch
 npm ci
 npm run dev

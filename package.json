@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TejeshDevdas/reposketch.git"
+    "url": "https://github.com/tejeshdevdas-py/reposketch.git"
   },
-  "homepage": "https://github.com/TejeshDevdas/reposketch#readme",
+  "homepage": "https://github.com/tejeshdevdas-py/reposketch#readme",
   "bugs": {
-    "url": "https://github.com/TejeshDevdas/reposketch/issues"
+    "url": "https://github.com/tejeshdevdas-py/reposketch/issues"
   },
   "engines": {
     "node": ">=22.12.0"

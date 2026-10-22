@@ -229,7 +229,7 @@ export default function App() {
         <div className="topbar-right">
           <a
             className="open-source"
-            href="https://github.com/TejeshDevdas/reposketch"
+            href="https://github.com/tejeshdevdas-py/reposketch"
             target="_blank"
             rel="noreferrer"
           >
